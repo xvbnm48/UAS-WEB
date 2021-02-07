@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="index.css">
 </head>
 <body >
-<nav class="navbar navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand" href="#">
-            <H1>bpjs</H1>
+            <img src="assets/img/logo.png" width="30" height="30" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -48,15 +48,23 @@
     </div>
     <div class="container">
         <div class="row  testimoni1">
-            <div class="col">
+            <div class="col-6">
                 <img src="assets/img/testi.jpg" class="img-fluid" alt="">
             </div>
-            <div class="col">
-            <h3>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae sed minima quidem neque iste itaque ut maxime, culpa velit dolores. Labore ipsa tempora, amet nulla at dolorum quia dicta. Possimus?</h3>
+            <div class="col-4">
+            <h3>Testimoi masyarakat menggunakan <spa>BPJS</spa></h3>
+            <p>tunggu apalagi, segera daftarkan keluargamu dengan <span>BPJS</span></p>
+            <button type="submit" name="submit" class="btn btn-primary">DAFTAR SEKARANG</button>
             </div>
         </div>
     </div>
-
+    
+    <div class="row footer">
+        <div class="col text-center">
+        <p class="mt-5 mb-3 text-muted">Copyright &copy; All Right Reserved by Fariz 2020-2021</p>
+  
+        </div>
+    </div>
 
 </body>
 </html>
