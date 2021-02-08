@@ -51,7 +51,7 @@
 
     <div class="container">
         <div class="panel panel-default">
-            <div class="panel-heading">Form Pendaftaran BPJS/div>
+            <div class="panel-heading">Form Pendaftaran BPJS
             <div class="panel-body">
             <!-- membuat form  -->
             <!-- gunakan tanda [] untuk menampung array  -->

@@ -45,8 +45,8 @@
     <input type="checkbox" value="remember-me"> Remember me
   </label>
 </div>
-
 <button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
+<a class="mt-4" href="#">belum punya akun ? Daftar sekarang</a>
 
 <p class="mt-5 mb-3 text-muted">&copy; 2020-2021</p>
 </form>
