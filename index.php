@@ -68,12 +68,12 @@
   
         </div>
     </div>
-    <script>
+    <!-- <script>
         $(document).ready(function(){
         $("button").click(function(){
             $("#jumbo").fadeIn();
         });
         });
-    </script>
+    </script> -->
 </body>
 </html>

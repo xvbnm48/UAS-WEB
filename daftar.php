@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="index.css">
     <script src="assets/jquery/jquery-3.5.1.min.js"></script>
-    <title>Daftar</title>
+    <title>Daftar BPJS </title>
 </head>
 <body>
 <!DOCTYPE html>
@@ -51,7 +51,7 @@
 
     <div class="container">
         <div class="panel panel-default">
-            <div class="panel-heading">Form Tambah Data Dinamis</div>
+            <div class="panel-heading">Form Pendaftaran BPJS/div>
             <div class="panel-body">
             <!-- membuat form  -->
             <!-- gunakan tanda [] untuk menampung array  -->
